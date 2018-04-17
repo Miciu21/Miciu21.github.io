@@ -1,0 +1,23 @@
+#big {
+    color: yellow;
+    font-size: 25px;
+}
+h1 {
+    color: lime
+}
+li {
+    color: orangered
+}
+p {
+    color: tomato
+}
+.pink {
+    color:hotpink
+}
+.bg {
+    background: green
+}
+.list span {
+    color: green;
+    text-decoration: underline;
+}
